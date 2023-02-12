@@ -1,8 +1,6 @@
 # MachineLearning
 
-This repository concerns Machine Learning concepts  
-
-Contents: Written by Brian Lesko, the repository contains Python Notebooks demonstrating Statistical Machine Learning theories largely originating from  the book, An Introduction to Statistical Learning, by Gareth James.   
+Contents: Written by Brian Lesko, the repository contains Python Notebooks demonstrating Statistical Machine Learning theories largely originating from  the book, *An Introduction to Statistical Learning*, by Gareth James.   
 
 Creation of Contents: With comments and figures, the scripts were mainly produced as project submissions for Machine Learning 5307 and Statistics and Machine Learning 6500 in contribution toward a masters thesis.  
 
